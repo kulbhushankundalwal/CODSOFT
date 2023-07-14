@@ -1,3 +1,5 @@
+// The "NumberGame" project is a Java Swing-based guessing game application where users guess a randomly generated number within a specified range and receive feedback on their guesses.
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
